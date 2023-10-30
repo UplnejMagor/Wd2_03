@@ -1,1 +1,8 @@
-*a {text-decoration: none;}
+a {
+    text-decoration: none;
+}
+
+.rapper-pic img {
+    height: 300px;
+    object-fit: cover;
+}
