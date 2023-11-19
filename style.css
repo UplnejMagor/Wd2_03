@@ -1,8 +1,83 @@
-a {
+.soc {
+    color: white;
+    display: flex;justify-content: center;
     text-decoration: none;
-}
+}   
+a {
+    color: black;
+    display: flex;justify-content: center;
+    text-decoration: none;
+}   
+
+
 
 .rapper-pic img {
     height: 300px;
     object-fit: cover;
 }
+.banner {
+    padding-bottom: 20px;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white; display: flex; justify-content: center;
+}
+.odkaz {
+    color: white; display: flex;justify-content: center; padding-bottom: 15px;
+}
+H1 {
+    color: white; display: flex; justify-content: center; padding-bottom: 10px; padding-top: 60px;
+}
+.koncert {
+ text-align: center; color: white; padding-bottom: 10px; display: flex;justify-content: space-evenly;
+}
+.obrazek {
+    padding: 10px; display: flex; justify-content: space-around;
+}
+.galerie {
+    display: flex; justify-content: center;
+}
+.modal-content {
+    width: fit-content; background-color:black
+}
+.modal-dialog {
+    display: flex; justify-content: center; color: black;
+}
+.navbar {
+    position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.card {
+    background-color: black;
+    position: relative;
+    z-index: 0;
+    padding-top: 100px;
+}
+.row {
+   display: flex;justify-content: space-around;
+}
+.card-title  {
+    color: white;
+    display: flex;justify-content: center
+ }
+ .card-text  {
+    color: white;
+    display: flex;justify-content: center
+ }
+ h2 {
+    color: white;
+    padding-top: 20px;
+    display: flex;justify-content: center
+    
+ }
+b {
+    color: white;
+    display: flex;justify-content: center;
+    padding-bottom: 30px;
+ }
